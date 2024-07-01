@@ -1,0 +1,10 @@
+{
+  "C_Cpp.default.compilerPath": "/usr/bin/g++",
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/**",
+    "/opt/homebrew/include"
+  ],
+  "files.associations": {
+    "set": "cpp"
+  }
+}
